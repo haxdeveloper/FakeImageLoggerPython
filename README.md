@@ -10,3 +10,12 @@ Bom, eu fiz este simples logger de imagens falsas em python para mostrar como fu
 
 [!] Não há Image Logger, pois o Discord salva todas as imagens em seu CDN! NUNCA HAVERÁ IMAGE LOGGER, TODOS OS VÍDEOS SÃO SCAMS.
 Não me responsabilizo caso use isto para scam.
+
+
+===============================================
+
+✅ HWID System
+✅ Loading Animation System
+✅ Token Grabber System (for infect your buyer) - Pulling Google Passwords and Cookies.
+
+
